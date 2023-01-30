@@ -12,7 +12,7 @@ const BLOG = {
 
   AUTHOR: 'Fructose', // 作者
   BIO: '在鱼缸里长大的金鱼，会朗诵关于海的诗吗？｜一个21岁的普通高等学校学生', // 作者简介
-  LINK: 'https://blog.pinbonds.com', // 网站地址
+  LINK: 'https://blog.pibonds.com', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'evibhm@protonmail.com', // 邮箱
